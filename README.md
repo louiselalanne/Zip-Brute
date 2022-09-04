@@ -10,5 +10,6 @@ Open the terminal and install
 pip install zipfile36
 Pip install time
 ```
+## Result:
 
 ![zip_brute](https://user-images.githubusercontent.com/100588945/188320908-d53916e3-b47b-4103-bed4-8a52f507aff6.png)
